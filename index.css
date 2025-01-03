@@ -1,0 +1,22 @@
+/* body {
+    font-family: "Source Sans 3", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+} */
+
+body {
+    font-family: "Barlow", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.mb-1 {
+    margin-bottom: .25rem !important;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+}
